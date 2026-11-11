@@ -1,0 +1,7 @@
+[project]
+name = "pychain-demo-release"
+version = "1.0.0"
+description = "Demonstration package used to test publication, archival and recovery with PyChain."
+requires-python = ">=3.12"
+authors = [{ name = "Pietro Tellarini" }]
+dependencies = []
